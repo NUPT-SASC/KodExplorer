@@ -1,4 +1,4 @@
-# KodExplorer
+# KodCloud 科协资源共享系统
 
 [![Home page](https://img.shields.io/badge/home-page-yellow.svg?style=flat)](http://kodcloud.com) [![GPLV3 License](https://img.shields.io/badge/Licence-GPLV3-green.svg?style=flat)](http://kodcloud.com) [![Download](http://kodcloud.com/tools/version/?analyze/download)](https://github.com/kalcaddle/KODExplorer/archive/master.zip)
 
